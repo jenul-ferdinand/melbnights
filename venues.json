@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Hawthorn Hotel",
+    "suburb": "Hawthorn",
+    "url": "https://thehawthornhotel.com.au/tightarse-tuesday/",
+    "vibe": ["uni", "cheap", "pub", "dance"],
+    "weekly": {
+      "tue": "Tightarse Tuesday, from 8pm. $5 vodkas, $7 basics, $8 selected pints. Guestlist via Instagram for express entry. Big lines."
+    },
+    "verified": "2026-09-22"
+  },
+  {
+    "name": "Revolver Upstairs",
+    "suburb": "Prahran",
+    "url": "https://revolverupstairs.com.au",
+    "vibe": ["club", "techno", "house", "late", "after-hours"],
+    "weekly": {
+      "fri": "Fri night into Sat morning, runs past sunrise.",
+      "sat": "Sat night into Sun, the famous Sunday session runs through the day."
+    },
+    "verified": null
+  },
+  {
+    "name": "Sub Club",
+    "suburb": "CBD",
+    "url": "https://ra.co/clubs/61432",
+    "vibe": ["club", "techno", "rave", "underground"],
+    "weekly": {},
+    "verified": null
+  },
+  {
+    "name": "Colour",
+    "suburb": "CBD",
+    "url": "https://ra.co/clubs/181783",
+    "vibe": ["club", "techno", "house", "rave"],
+    "weekly": {},
+    "verified": null
+  },
+  {
+    "name": "Section 8",
+    "suburb": "CBD",
+    "url": "https://www.section8.com.au",
+    "vibe": ["bar", "outdoor", "house", "daytime"],
+    "weekly": {},
+    "verified": null
+  },
+  {
+    "name": "The Night Cat",
+    "suburb": "Fitzroy",
+    "url": "https://thenightcat.com.au",
+    "vibe": ["live", "gig", "dance", "cheap"],
+    "weekly": {},
+    "verified": null
+  }
+]
