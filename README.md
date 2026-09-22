@@ -1,5 +1,9 @@
 # melbnights
 
+<p align="center">
+  <img width="480" alt="Alain Delon in Purple Noon" src="https://github.com/jenul-ferdinand/melbnights/releases/download/assets/purple-noon.gif" />
+</p>
+
 What's on in Melbourne: cheap nights, raves, clubs, bars, gigs.
 
 No app, no UI. Open this repo in Claude Code (or Codex) and ask:
