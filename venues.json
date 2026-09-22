@@ -13,28 +13,22 @@
     "name": "Revolver Upstairs",
     "suburb": "Prahran",
     "url": "https://revolverupstairs.com.au",
+    "ra": "https://ra.co/clubs/390",
     "vibe": ["club", "techno", "house", "late", "after-hours"],
     "weekly": {
-      "fri": "Fri night into Sat morning, runs past sunrise.",
-      "sat": "Sat night into Sun, the famous Sunday session runs through the day."
+      "fri": "Open 5pm Fri through to midday Sat.",
+      "sat": "Open 5pm Sat straight through to Monday morning. The Sunday session is the famous bit.",
+      "sun": "Still going from Saturday night, 24 hours until Monday morning."
     },
-    "verified": null
+    "verified": "2026-09-22"
   },
   {
     "name": "Sub Club",
     "suburb": "CBD",
-    "url": "https://ra.co/clubs/61432",
+    "url": "https://ra.co/clubs/92522",
     "vibe": ["club", "techno", "rave", "underground"],
     "weekly": {},
-    "verified": null
-  },
-  {
-    "name": "Colour",
-    "suburb": "CBD",
-    "url": "https://ra.co/clubs/181783",
-    "vibe": ["club", "techno", "house", "rave"],
-    "weekly": {},
-    "verified": null
+    "verified": "2026-09-22"
   },
   {
     "name": "Section 8",
@@ -48,8 +42,9 @@
     "name": "The Night Cat",
     "suburb": "Fitzroy",
     "url": "https://thenightcat.com.au",
+    "ra": "https://ra.co/clubs/117568",
     "vibe": ["live", "gig", "dance", "cheap"],
     "weekly": {},
-    "verified": null
+    "verified": "2026-09-22"
   }
 ]
