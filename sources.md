@@ -10,5 +10,7 @@ Fetch the ones matching the vibe asked. Each line: vibe | how to get it.
 - general, cheap | https://www.eventbrite.com.au/d/australia--melbourne/free--events/ (free events)
 - cheap drinks, happy hours | https://eatdrinkcheap.com.au/melbourne
 - uni nights, student parties | WebSearch `"student night" melbourne <weekday>` then Eventbrite
+- festival | `annual.md` first, then https://www.moshtix.com.au/v2/search?Query=festival and RA (day parties and boutique festivals list there)
+- daytime, markets, free, city stuff | https://whatson.melbourne.vic.gov.au (council, comprehensive) and Broadsheet above
 
 Not fetchable without login: Instagram, Facebook events. If a venue only posts there, tell the user to check the venue's Instagram and link it from `venues.json`.

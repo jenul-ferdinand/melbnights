@@ -6,6 +6,7 @@ Event finder for Melbourne: cheap nights, raves, clubs, bars, gigs. There is no 
 
 - `venues.json`: curated venues with vibe tags and recurring weekly nights (e.g. Tightarse Tuesday at the Hawthorn Hotel). This is the part the internet does not have in one place. Grow it.
 - `sources.md`: where to look for one-off events, with URLs the agent can fetch directly.
+- `annual.md`: the big recurring festivals by month. Check here first for "any festivals coming up".
 - `scripts/ra.sh <from> <to>`: Resident Advisor listings for Melbourne as JSON. Covers raves, club nights, warehouse parties.
 - `events/YYYY-MM-DD.md`: cache of what was found for a given date. Reuse if less than 24h old.
 - `.claude/skills/whats-on/`: the `/whats-on` command.
