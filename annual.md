@@ -11,5 +11,6 @@ Big recurring festivals and events, by month. Dates shift a little each year, so
 - Mar-Apr | Melbourne International Comedy Festival | 3 weeks, cheap early shows, city | https://www.comedyfestival.com.au
 - Jun | Rising | arts and music, city, lots of late night stuff | https://rising.melbourne
 - Oct | Melbourne Fringe | 3 weeks, cheap and weird, all over town | https://www.melbournefringe.com.au
+- Oct | Oktoberfest in the Gardens | one day, steins and lederhosen, Catani Gardens St Kilda | https://www.moshtix.com.au/v2/event/oktoberfest-in-the-gardens-melbourne-2026/197957
 - Dec | Meredith | camping, no lineup clashes, the Gift ballot | https://mmf.com.au
 - Dec-Jan | Beyond the Valley | NYE camping festival, Barunah Plains | https://beyondthevalley.com.au
