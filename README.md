@@ -1,7 +1,7 @@
 # melbnights
 
 <p align="center">
-  <img width="480" alt="Alain Delon in Purple Noon" src="https://github.com/jenul-ferdinand/melbnights/releases/download/assets/purple-noon.gif" />
+  <img width="480" alt="Alain Delon in Purple Noon" src="https://github.com/user-attachments/assets/5c842077-8d7d-4b74-b30c-ff467bd68572" />
 </p>
 
 What's on in Melbourne: cheap nights, raves, clubs, bars, gigs.
